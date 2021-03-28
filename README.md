@@ -1,4 +1,4 @@
-# Starbucks Land Page Concept
+# Starbucks Landing Page Concept
 
 
 ## Demonstration
