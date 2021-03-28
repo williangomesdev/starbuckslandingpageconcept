@@ -8,6 +8,7 @@
 * [X] HTML
 * [X] CSS
 * [X] JAVASCRIPT
+* [X] TOGGLE MENU
 * [X] RESPONSIVE
 
 ## Author
