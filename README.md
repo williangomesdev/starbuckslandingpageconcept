@@ -5,12 +5,11 @@
 <img src="./images/demo.JPG">
 
 ## Techs
-* [ X ]HTML
-* [ X ]CSS
-* [ X ]JAVASCRIPT
+* [X] HTML
+* [X] CSS
+* [X] JAVASCRIPT
+* [X] RESPONSIVE
 
-## What is missing to finish?
-*  Perform responsive design
 ## Author
 
 **Willian Amaro Gomes**
