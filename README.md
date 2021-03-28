@@ -4,8 +4,8 @@
 ## Demonstration
 <img src="./images/demo.JPG">
 <div style="display:flex;">
-<img style="width:73%"src="./images/jsanimation.gif">
-<img style="width:25%;padding:0 2%;"src="./images/toggle.gif">
+    <img style="width:50%;padding:2% 0"src="./images/jsanimation.gif">
+    <img style="width:25%; padding:2% 2%;"src="./images/toggle.gif">
 </div>
 
 ## Techs
