@@ -3,7 +3,7 @@
 
 ## Demonstration
 <img src="./images/demo.JPG">
-<div style="display:inline-block;">
+<div align="center">
     <img src="./images/jsanimation.gif" alt="js-animation" width="75%" height="350">
     <img src="./images/toggle.gif"alt="menu-toggle" width="25%" height="350">
 </div>
