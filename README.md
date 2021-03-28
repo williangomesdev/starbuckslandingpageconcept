@@ -6,7 +6,7 @@
 
 <div align="left">
     <img src="./images/jsanimation.gif" alt="js-animation" width="74%" height="350">
-    <img src="./images/toggle.gif"alt="menu-toggle" width="26%" height="350">
+    <img src="./images/toggle.gif"alt="menu-toggle" width="25%" height="350">
 </div>
 <hr/>
 
