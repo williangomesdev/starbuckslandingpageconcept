@@ -3,9 +3,9 @@
 
 ## Demonstration
 <img src="./images/demo.JPG">
-<div style="display:flex;">
-    <img src="./images/jsanimation.gif" alt="js-animation" width="50%">
-    <img src="./images/toggle.gif"alt="menu-toggle" width="25%">
+<div align="left;">
+     <img src="./images/animation.gif" alt="animation" width="74%" height="350">
+    <img src="./images/toggle.gif"alt="menu-toggle" width="25%" height="350">
 </div>
 
 ## Techs
